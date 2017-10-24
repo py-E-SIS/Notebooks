@@ -10,7 +10,10 @@ At the moment this repository only contains one Notebook to illustrate how to wo
     * OSX: https://docs.docker.com/docker-for-mac/install/
     * Ubuntu: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
  1. Install Docker2Repo (https://github.com/jupyter/repo2docker)
- ```pip install jupyter-repo2docker```
+   
+   ```pip install jupyter-repo2docker```
+
  2. Create and run Docker image
- ```jupyter-repo2docker --image-name PQNotebooks git@github.com:PicoQuant/Notebooks.git```
+ 
+   ```jupyter-repo2docker --image-name PQNotebooks git@github.com:PicoQuant/Notebooks.git```
  
