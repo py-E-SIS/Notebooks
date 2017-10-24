@@ -17,6 +17,6 @@ The easiest way of setting up Jupyter to run the notebooks of this repository is
 
  3. Create and run Docker image directly from this repository
  
-   ```jupyter-repo2docker --image-name PQNotebooks git@github.com:PicoQuant/Notebooks.git```
+   ```jupyter-repo2docker git@github.com:PicoQuant/Notebooks.git```
  
 ### Conda
