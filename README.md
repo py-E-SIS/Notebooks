@@ -6,9 +6,9 @@ At the moment this repository only contains one Notebook to illustrate how to wo
 ### Docker2Repo
 
  0. Install Docker
-   * Windows: https://docs.docker.com/docker-for-windows/install/
-   * OSX: 
-   * Linux: 
+    * Windows: https://docs.docker.com/docker-for-windows/install/
+    * OSX: 
+    * Linux: 
  1. Install Docker2Repo (https://github.com/jupyter/repo2docker)
  ```pip install jupyter-repo2docker```
  2. Create and run Docker image
