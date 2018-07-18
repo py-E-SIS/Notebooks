@@ -20,3 +20,11 @@ The easiest way of setting up Jupyter to run the notebooks of this repository is
    ```jupyter-repo2docker git@github.com:PicoQuant/Notebooks.git```
  
 ### Conda
+
+You can also install locally the Anaconda distribution of Python 3.
+https://www.anaconda.com/download/ for windows, linux etc.
+
+After installation , launch the "Anaconda Navigator" and start the Jupyter Notebook.
+
+
+
